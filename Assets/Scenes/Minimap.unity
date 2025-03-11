@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 3
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: cc421da483ed06c49933077a621bff25, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -37,7 +37,7 @@ RenderSettings:
   m_ReflectionBounces: 1
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
-  m_Sun: {fileID: 0}
+  m_Sun: {fileID: 1161298874}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -170,9 +170,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3023364380654018004, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
       propertyPath: m_Name
       value: TreePine
+      objectReference: {fileID: 0}
+    - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -366,9 +374,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3023364380654018004, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
       propertyPath: m_Name
       value: TreePine (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -465,7 +481,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &190228788
 Transform:
   m_ObjectHideFlags: 0
@@ -815,9 +831,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3023364380654018004, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
       propertyPath: m_Name
       value: TreePine (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -847,7 +871,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &414780159
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1042,9 +1066,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3023364380654018004, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
       propertyPath: m_Name
       value: TreePine (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1104,9 +1136,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3023364380654018004, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
       propertyPath: m_Name
       value: TreePine (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1166,9 +1206,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3023364380654018004, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
       propertyPath: m_Name
       value: TreePine (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1189,7 +1237,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 611095354}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: PineTrees
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1314,9 +1362,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3023364380654018004, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
       propertyPath: m_Name
       value: TreePine (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1438,9 +1494,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3023364380654018004, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
       propertyPath: m_Name
       value: TreePine (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1656,9 +1720,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3023364380654018004, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
       propertyPath: m_Name
       value: TreePine (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1718,9 +1790,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3023364380654018004, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
       propertyPath: m_Name
       value: TreePine (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1780,9 +1860,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3023364380654018004, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
       propertyPath: m_Name
       value: TreePine (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1842,9 +1930,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3023364380654018004, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
       propertyPath: m_Name
       value: TreePine (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1966,9 +2062,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3023364380654018004, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
       propertyPath: m_Name
       value: TreePine (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2028,9 +2132,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3023364380654018004, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
       propertyPath: m_Name
       value: TreePine (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2090,9 +2202,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3023364380654018004, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
       propertyPath: m_Name
       value: TreePine (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2276,9 +2396,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3023364380654018004, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
       propertyPath: m_Name
       value: TreePine (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7198842900909820321, guid: 58a00a27a846a468a82d924089b070b3, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2534,7 +2662,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _forwardSpeed: 5
   _turnSpeed: 100
-  _Camera: {fileID: 2055075031482799344}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
